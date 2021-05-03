@@ -22,6 +22,7 @@ PRODUCT_DEVICE := miatoll
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Miatoll
 PRODUCT_MANUFACTURER := Xiaomi
+CUSTOM_DEVICE := miatoll
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 WITH_GMS := true
