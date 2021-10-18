@@ -10,10 +10,11 @@ $(call inherit-product, device/xiaomi/miatoll/device.mk)
 # Inherit some common Elixir stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
-
-
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
+
+# NGA
+TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
 
 # Device identifier
 PRODUCT_NAME := aosp_miatoll
