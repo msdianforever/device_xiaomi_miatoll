@@ -16,4 +16,4 @@ git clone --depth=1 https://github.com/ArrowOS-Devices/android_device_xiaomi_ext
 git clone --depth=1 https://gitlab.com/Panchajanya1999/azure-clang prebuilts/clang/host/linux-x86/clang-14.0
 
 # Miui Camera
-git clone --depth=1 https://github.com/SonalSingh18/vendor_xiaomi_miuicamera.git -b 12.1 vendor/xiaomi/miuicamera
+git clone --depth=1 https://github.com/ProjectElixir-Devices/vendor_xiaomi_miuicamera -b 12.1 vendor/xiaomi/miuicamera
