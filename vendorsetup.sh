@@ -1,5 +1,5 @@
 rm -rf hardware/xiaomi
-git clone --depth=1 https://github.com/ArrowOS-Devices/android_hardware_xiaomi.git -b arrow-12.1 hardware/xiaomi
+git clone --depth=1 https://github.com/ArrowOS-Devices/android_hardware_xiaomi.git -b arrow-13.0 hardware/xiaomi
 
 # Device Common Tree
 git clone https://github.com/ProjectElixir-Devices/device_xiaomi-sm6250-common.git -b 12.1  device/xiaomi/sm6250-common
