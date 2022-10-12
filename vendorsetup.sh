@@ -10,3 +10,4 @@ git clone --depth=1 https://github.com/ProjectElixir-Devices/kernel_xiaomi_sm625
 
 # Device Extra
 git clone --depth=1 https://gitlab.com/Panchajanya1999/azure-clang prebuilts/clang/host/linux-x86/clang-14.0
+git clone --depth=1 https://github.com/ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt.git -b arrow-13.0 packages/apps/GCamGOPrebuilt
